@@ -680,6 +680,20 @@ p {
     font-size: 14px;
 }
 
+.p1 {
+    font-size: 22px;
+    font-weight: 600;
+}
+
+.p2 {
+    font-size: 19px;
+    font-weight: 600;
+}
+
+.p3 {
+    font-size: 18px;
+}
+
 .tight-width-whitespace {
     max-width: 600px;
     margin: auto auto auto auto;
