@@ -317,6 +317,10 @@ a:hover {
     z-index: 1;
 }
 
+.nav_bis {
+    margin-right: 150px!important;
+}
+
 .nav > li {
     float: left;
     margin-top: 4px;
