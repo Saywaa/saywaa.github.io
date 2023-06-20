@@ -321,6 +321,10 @@ a:hover {
     margin-right: 150px!important;
 }
 
+.nav_bis_link {
+    margin-right: 30px!important;
+}
+
 .nav > li {
     float: left;
     margin-top: 4px;
